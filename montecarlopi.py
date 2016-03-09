@@ -32,4 +32,4 @@ if __name__ == "__main__":
     #print montecarlopi(100)
     #print montecarlopi(1000)
     print montecarlopi(10000)
-    #ex results - 3.172, 3.1332, 3.134
+    #ex results - 3.172, 3.1424, 3.1332, 3.134
